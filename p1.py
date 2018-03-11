@@ -3,10 +3,7 @@
 """
 Created on Mon Jan 29 07:23:26 2018
 
-@author: shridhar Kevati
-Assignment ----1
-Student Id ----999992831
-"""
+
 
 
 #Taking care of missing values (Replace missing values with mean)
